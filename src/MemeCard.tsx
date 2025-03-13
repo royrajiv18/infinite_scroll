@@ -1,5 +1,4 @@
 const MemeCard = ({ data }) => {
-  console.log(data);
   const { url, title, author } = data;
   return (
     <div>
